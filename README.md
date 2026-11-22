@@ -127,16 +127,6 @@ public class DivyaMishra {
 
 **Tech Stack:** `Java` `Spring Boot` `React` `PostgreSQL` `AI Integration`
 
-### 📦 3. Project FORESIGHT – Intelligent Inventory Forecasting
-
-**AI/ML-powered inventory optimization platform**
-
-- Machine learning-based demand forecasting
-- Stockout and overstock risk analysis
-- Intelligent inventory recommendations
-- Inventory analytics and insights
-
-**Focus Areas:** `Machine Learning` `Forecasting` `Inventory Analytics` `AI`
 
 ### 🛡️ 4. SchemeGuard – AI-powered Civic-Tech Platform
 
